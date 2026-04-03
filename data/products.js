@@ -27,7 +27,7 @@ const products = [
     id: 'p4',
     name: 'Gia do laptop nhom L1',
     price: 320000,
-    image: 'https://images.unsplash.com/photo-1517336714739-489689fd1ca8?w=800',
+    image: 'https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTE_iO8CJ4FRYP0KjYVxp8cqlhja1GDsVxHjlVzLh85pz8pn3B0VWJr3Q8sX6wAIkMSJ781eZEi6J56WEy8BsRRH6WB8nf_A_Ntl6yz-xDr0U1E2Cnt5EttzWUN_XAQ41SATepI0M0&usqp=CAc',
     description:
       'Gia do hop kim nhom chac chan, nang tam man hinh giam moi co vai.',
   },
